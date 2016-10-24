@@ -1,10 +1,11 @@
 
 # Shortcuts
 alias g="git"
+alias gs="git status"
+alias gc="git checkout"
+alias gb="git branch"
 alias h="history"
 alias ch='history | grep "git commit"'
-alias code='cd /Users/boa132/Code'
-alias root='cd /Users/boa132/'
 
 alias cd..='cd ../'                    # Go back 1 directory level (for fast typers)
 alias ..='cd ../'                      # Go back 1 directory level
